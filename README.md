@@ -2,16 +2,6 @@
 
 This repository contains two combined Spring Boot projects based on the concepts covered in Chapter 4. The projects demonstrate transaction handling, process orchestration, failure handling, and consistency techniques.
 
-## Project Structure
-
-```text
-scalable_assignment2/
-│
-├── Prg_1-5/
-│   └── Combined Spring Boot Project
-│
-└── Prg_6-10/
-    └── Combined Spring Boot Project
 ```
 
 ## Prg_1-5
